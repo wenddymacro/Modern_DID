@@ -173,7 +173,7 @@ Estimating dynamic treatment effects in event studies with heterogeneous treatme
 {marker author}{...}
 {title:Author}
 
-{pstd}W.L. Xu{p_end}
+{pstd}XuWenLi{p_end}
 {pstd}City University of Macau{p_end}
 {pstd}wlxu@cityu.edu.mo{p_end}
 
